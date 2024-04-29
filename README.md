@@ -30,7 +30,8 @@ The repository contains:
 | eBooks | [GitHub](https://github.com/payatu/resources/tree/main/ebooks) | [Payatu](https://payatu.com/ebooks/) |
 | Sample Reports | [GitHub](https://github.com/payatu/resources/tree/main/sample-report) | None
 
-For even more resources and tools, visit our website and navigate to the resource section.
+For even more learning resources and tools, visit our [website](https://payatu.com/) and navigate to the resource section [Refer Screenshot Below] ⤵️
+
 ![Data Collection   Pre-processing (1)](https://github.com/payatu/resources/assets/151744825/4c9c6742-3f55-4ada-a24e-dc8e449593dd)
 
 So, grab a cup of coffee and explore how we break tech to create cybersafe technology!
